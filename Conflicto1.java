@@ -7,7 +7,13 @@
     public static void main(String[] args) {
 
         metodoCharlie();
+ static void metodoAlejandro() {
+        System.out.println("Hola, soy Alejandro");
+    }
 
+    public static void main(String[] args) {
+
+        metodoAlejandro();
     }
 
 }
